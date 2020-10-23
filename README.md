@@ -1,6 +1,6 @@
 # Projectname
 
-> A Minecraft 1.14 data pack that
+> A Minecraft 1.16.x data pack that
 
 ## Installation
 
