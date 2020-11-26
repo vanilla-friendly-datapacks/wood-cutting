@@ -1,0 +1,8 @@
+[build]
+output = "data"
+src = "src"
+
+[template]
+all_wood_type = ["acacia", "birch", "crimson", "dark_oak", "jungle", "oak", "spruce", "warped"]
+nether_wood_type = ["crimson", "warped"]
+overworld_wood_type = ["acacia", "birch", "dark_oak", "jungle", "oak", "spruce"]

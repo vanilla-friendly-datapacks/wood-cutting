@@ -6,12 +6,12 @@
   },
   "display": {
     "announce_to_chat": false,
-    "description": "",
+    "description": "It is a sawmill though...",
     "icon": {
-      "item": ""
+      "item": "minecraft:stonecutter"
     },
     "show_toast": false,
-    "title": ""
+    "title": "Wood Cutting"
   },
   "parent": "global:zerotask"
 }
