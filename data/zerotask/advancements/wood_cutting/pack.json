@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": "It is a sawmill though...",
+    "icon": {
+      "item": "minecraft:stonecutter"
+    },
+    "show_toast": false,
+    "title": "Wood Cutting"
+  },
+  "parent": "global:zerotask"
+}
