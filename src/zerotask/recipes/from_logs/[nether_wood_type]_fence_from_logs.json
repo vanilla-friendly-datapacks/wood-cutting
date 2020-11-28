@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:[nether_wood_type]_stems"
+  },
+  "result": "minecraft:[nether_wood_type]_fence",
+  "count": 4
+}

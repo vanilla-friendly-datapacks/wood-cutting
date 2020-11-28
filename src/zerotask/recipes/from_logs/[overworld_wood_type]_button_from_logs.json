@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:[overworld_wood_type]_logs"
+  },
+  "result": "minecraft:[overworld_wood_type]_button",
+  "count": 4
+}
