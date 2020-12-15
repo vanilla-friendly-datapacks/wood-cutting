@@ -1,0 +1,15 @@
+{
+  "parent": "zerotask:wood_cutting/recipes/root",
+  "rewards": {
+    "recipes": ["zerotask:from_logs/[all_wood_type]_fence_from_logs", "zerotask:from_planks/[all_wood_type]_fence_from_planks"]
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:[all_wood_type]_fence"
+      }
+    }
+  },
+  "requirements": [["has_the_recipe"]]
+}
