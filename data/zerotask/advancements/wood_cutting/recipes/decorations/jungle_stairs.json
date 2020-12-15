@@ -1,0 +1,15 @@
+{
+  "parent": "zerotask:wood_cutting/recipes/root",
+  "rewards": {
+    "recipes": ["zerotask:from_logs/jungle_stairs_from_logs", "zerotask:from_planks/jungle_stairs_from_planks"]
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:jungle_stairs"
+      }
+    }
+  },
+  "requirements": [["has_the_recipe"]]
+}

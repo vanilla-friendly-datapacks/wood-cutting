@@ -1,0 +1,15 @@
+{
+  "parent": "zerotask:wood_cutting/recipes/root",
+  "rewards": {
+    "recipes": ["zerotask:from_logs/acacia_fence_gate_from_logs", "zerotask:from_planks/acacia_fence_gate_from_planks"]
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:acacia_fence_gate"
+      }
+    }
+  },
+  "requirements": [["has_the_recipe"]]
+}

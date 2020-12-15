@@ -1,0 +1,15 @@
+{
+  "parent": "zerotask:wood_cutting/recipes/root",
+  "rewards": {
+    "recipes": ["zerotask:from_logs/spruce_button_from_logs", "zerotask:from_planks/spruce_button_from_planks"]
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:spruce_button"
+      }
+    }
+  },
+  "requirements": [["has_the_recipe"]]
+}
